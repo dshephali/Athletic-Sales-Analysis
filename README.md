@@ -8,6 +8,7 @@ Authors & Citation
 Shephali Dubey 
 XpertLearning to test couple of codes 
 Alberto Aigner feedback for 1 code error
+Jared for reset_index functionality purpose
 
 Summary
 
