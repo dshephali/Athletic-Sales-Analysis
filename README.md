@@ -1,7 +1,7 @@
 # Athletic-Sales-Analysis
 Module 5 Challenge
 
-This Project is to analyse sales data for a footwear business and identify which U.S. cities sold the most athletic wear between 2020 and 2021 , which retailers had the most total athletic footwear sales as well a most women's athletic footwear sales. 
+This Project is to analyse sales data for a footwear business and identify which U.S. cities sold the most athletic wear between 2020 and 2021 , which retailers had the most total athletic footwear sales, as well as most women's athletic footwear sales. 
 
 Authors & Citation
 
